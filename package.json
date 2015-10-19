@@ -20,7 +20,7 @@
     "url": "http://github.com/kriskowal/q-io.git"
   },
   "dependencies": {
-    "q": "^1.0.1",
+    "bluebird-q": "~1.0.3",
     "qs": "^1.2.1",
     "url2": "^0.0.0",
     "mime": "^1.2.11",
